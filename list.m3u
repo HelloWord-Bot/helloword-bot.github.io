@@ -142,7 +142,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery%E7%A7%91%E5%AD%A6.png"  group-title="港台育乐",Discovery科学
 http://pili-live-hdl.qhmywl.com:80/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png"  group-title="港台育乐",DiscoveryAsia
-http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="港台育乐",Discovery
 http://pili-live-hdl.qhmywl.com:80/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png"  group-title="港台育乐",国家地理悠人频道
@@ -380,7 +380,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png"  group-title="港台影视",纬来戏剧台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/82605f105052ccaef7bb5d55ebc1341d.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png"  group-title="综合娱乐",纬来综合台
-http://cloud-play.hhalloy.com/live/932044d200ab730968a8f9bc67feaef5.flv
+http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png"  group-title="综合娱乐",东森综合台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png"  group-title="综合娱乐",中天综合台
