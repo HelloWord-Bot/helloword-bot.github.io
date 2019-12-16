@@ -104,9 +104,9 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文
-http://112.50.243.10/PLTV/88888888/224/3221225900/3.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5DECDACCU319D1104K773B447EIAD2CE772PBM347F712V10400Z57EA5W15DE6105875CFBEC&playtoken=ABCDEFGHIGK&programid=4200000044.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯
-http://112.50.243.10/PLTV/88888888/224/3221225901/3.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5DECDACCU319D1104K773B447EIAD2CE772PBM347F712V10400Z57EA5W15DE6105875CFBEC&playtoken=ABCDEFGHIGK&programid=4200000045.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港 
 http://198.16.106.58:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000017200487&ct=18184&tsum=479b00120dbe8df64c637d131ceb1622
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新闻",香港开电视
