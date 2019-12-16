@@ -213,7 +213,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MyCinemaEurope.png"  group-title="港台影视",MyCinemaEurope
 http://pili-live-hdl.qhmywl.com:80/dsdtv/2d2f46a778c93f01b614213456fc97fc.m3u8
-#EXTINF:-1 tvg-logo="https://www.osn.com/osn/media/OSNMedia/Images/new-base/osn-logo.png"  group-title="港台影视",StarMoviesHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png"  group-title="港台影视",StarMoviesHD
 http://pili-live-hdl.qhmywl.com:80/dsdtv/78c4edcada009192a9b1f8976b5692ab.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg"  group-title="港台影视",CinemaWorld
 http://pili-live-hdl.qhmywl.com:80/dsdtv/357252de83720e30d40c00bfba69c497.m3u8
@@ -425,7 +425,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png"  group-title="卡通亲子",CN卡通频道
 http://pili-live-hdl.qhmywl.com:80/dsdtv/c865782e4a131efe17651165835ca37e.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png"  group-title="卡通亲子",ANIMAX
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png"  group-title="卡通亲子",ANIMAX
 http://pili-live-hdl.qhmywl.com:80/dsdtv/33de03293563010671a856688d63d4ee.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ifun1.png"  group-title="卡通亲子",iFun1
 http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
@@ -449,7 +449,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
 http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 #EXTINF:-1 tvg-logo="http://www.kasparov.com/wp-content/uploads/2018/11/Bloomberg-Television-Logo-600x310.jpg"  group-title="港台新闻",BloombergTV
 http://pili-live-hdl.qhmywl.com:80/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
-#EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg"  group-title="综合娱乐",香港603
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png"  group-title="综合娱乐",香港603
 http://pili-live-hdl.qhmywl.com:80/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ZChannel.png"  group-title="综合娱乐",Z频道
 http://pili-live-hdl.qhmywl.com:80/dsdtv/30a7edb2f6c42bd079dd4910806decde.m3u8
