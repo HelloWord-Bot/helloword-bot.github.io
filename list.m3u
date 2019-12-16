@@ -102,8 +102,6 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png"  group-title="综合娱乐",翡翠台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"  group-title="港台新闻",TVBS
-http://pili-live-hdl.qhmywl.com:80/dsdtv/f94be038bca84147bbf132d8ddd9bb39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png"  group-title="综合娱乐",J2
 http://pili-live-hdl.qhmywl.com:80/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png"  group-title="综合娱乐",TVBS欢乐台
