@@ -117,7 +117,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
 #EXTINF:-1 tvg-logo="http://images-sg.ott.kaltura.com/Service.svc/GetImage/p/147/entry_id/a331c6f05b504ff086a21b9897bfd688_12/version/20/width/50/height/50/quality/100"  group-title="港台新闻",新加坡亚洲新闻台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ifun3.png"  group-title="港台新闻",寰宇新闻2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png"  group-title="港台新闻",寰宇新闻2
 http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png"  group-title="港台新闻",CNN NEWS
 http://pili-live-hdl.qhmywl.com:80/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
@@ -433,7 +433,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/d9445086fd2dd474087674f638f2a8ed.m3u8
 #EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/baby-tv-crop-15217904812391954901115-1522393214914.jpg"  group-title="卡通亲子",BabyTV
 http://pili-live-hdl.qhmywl.com:80/dsdtv/d7ede3e748413a7ad065d29dbe542149.m3u8
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQEKt0xpC0MPdg/company-logo_200_200/0?e=2159024400&v=beta&t=4fbqzowty7s38RFCZWLybksKL6zm142oaeCsforA0zE"  group-title="卡通亲子",BabyFirst
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png"  group-title="卡通亲子",BabyFirst
 http://pili-live-hdl.qhmywl.com:80/dsdtv/efd423af0e64fd82c1cc29e909eb4303.m3u8
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg"  group-title="卡通亲子",My-kids
 http://pili-live-hdl.qhmywl.com:80/dsdtv/9bb01fa9902e14cd5811f5474283171b.m3u8
@@ -453,7 +453,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ZChannel.png"  group-title="综合娱乐",Z频道
 http://pili-live-hdl.qhmywl.com:80/dsdtv/30a7edb2f6c42bd079dd4910806decde.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%BA%AA%E5%AE%9E.png"  group-title="港台影视",影迷数位纪实
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png"  group-title="港台影视",影迷数位纪实
 http://pili-live-hdl.qhmywl.com:80/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huayi_yingju.png"  group-title="港台影视",华艺影剧
 http://pili-live-hdl.qhmywl.com:80/dsdtv/49d33b7521ceef2115572e8906e9f906.m3u8
@@ -462,7 +462,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台育乐",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" group-title="港台新闻",香港有线新闻
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="港台新闻",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台新闻",香港卫视
