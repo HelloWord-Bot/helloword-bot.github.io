@@ -477,9 +477,3 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台新闻",RHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="港台影视",CHC高清电影
-http://122.194.12.25:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DECD3B2U309C20ABK7738C86BIAD2CE772P8M32C7DA9V10472Z4E2C9WE54F30D5921&playtoken=ABCDEFGHIGK&programid=4200000077.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="港台影视",CHC家庭电影
-http://122.194.12.25:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DECD3B2U309C20ABK7738C86BIAD2CE772P8M32C7DA9V10472Z4E2C9WE54F30D5921&playtoken=ABCDEFGHIGK&programid=4200000184.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="港台影视",CHC动作电影
-http://122.194.12.25:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DECD3B2U309C20ABK7738C86BIAD2CE772P8M32C7DA9V10472Z4E2C9WE54F30D5921&playtoken=ABCDEFGHIGK&programid=4200000185.m3u8
