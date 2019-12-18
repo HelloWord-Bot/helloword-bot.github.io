@@ -98,12 +98,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新闻",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png"  group-title="综合娱乐",明珠台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png"  group-title="综合娱乐",翡翠台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png"  group-title="综合娱乐",J2
-http://pili-live-hdl.qhmywl.com:80/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png"  group-title="综合娱乐",TVBS欢乐台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E7%B2%BE%E9%87%87.png"  group-title="综合娱乐",TVBS精采台
@@ -293,8 +287,6 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.m3u8
 http://cloud-play.hhalloy.com/live/bdc9e5f7487003c20223fd67f25c7ee7.flv
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png"  group-title="港台育乐",TVN
 http://pili-live-hdl.qhmywl.com:80/dsdtv/060e39b20b7616170ba4ba63c53bc336.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png"  group-title="综合娱乐",TVB星河频道
-http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000013170794&ct=18077&tsum=39b32f8b21235d7c92cb937a91c239bd
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest/scale-to-width-down/200?cb=20190203084737"  group-title="港台影视",TVB功夫台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90.png"  group-title="港台育乐",靖天育乐台
@@ -317,8 +309,6 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png"  group-title="港台育乐",纬来育乐台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/5cd65f73313b022253084c489a6705c8.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png"  group-title="综合娱乐",中天娱乐台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/25ea449d554a16ec584e82d039065e5f.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png"  group-title="综合娱乐",东森超视
 http://pili-live-hdl.qhmywl.com:80/dsdtv/47d46d26bba55dd674454ad46c569ffa.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png"  group-title="综合娱乐",韩国娱乐台KMTV
@@ -383,8 +373,6 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/82605f105052ccaef7bb5d55ebc1341d.m3u8
 http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png"  group-title="综合娱乐",东森综合台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png"  group-title="综合娱乐",中天综合台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png"  group-title="综合娱乐",纬来精采
 http://pili-live-hdl.qhmywl.com:80/dsdtv/c311c72c22313d2991be335ea4872f46.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png"  group-title="综合娱乐",三立综合台
