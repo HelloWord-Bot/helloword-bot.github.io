@@ -141,12 +141,12 @@ FoxSports3,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9
 ELTA體育,vjms://121.14.222.75:8500:3502/live/cid=266
 智林体育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 
-民国亲子卡通,#genre#
+亲子卡通,#genre#
 迪士尼卡通,vjms://121.14.222.75:8500:3502/live/cid=361
 CN卡通频道,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
 东森幼幼台,vjms://121.14.222.75:8500:3502/live/cid=344#http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.flv
 
-民国综合娱乐,#genre#
+综合娱乐,#genre#
 民視HD,vjms://121.14.222.75:8500:3502/live/cid=450
 公視3HD,vjms://121.14.222.75:8500:3502/live/cid=436
 大愛,vjms://121.14.222.75:8500:3502/live/cid=442
