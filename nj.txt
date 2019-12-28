@@ -168,11 +168,6 @@ Newtv完美游戏,http://gslbserv.itv.cmvideo.cn:80/000000001000/532094685768696
 华数_欧美冒险,http://hls-ott-zhibo.wasu.tv/live/156/index.m3u8
 华数_热门网大,http://hls-ott-zhibo.wasu.tv/live/363/index.m3u8
 华数_BBC系列,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-华数_生活杂谈,http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-华数_心动剧场,http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-华数_百看不厌,http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-华数_情感生活,http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
-华数_少林问道,http://hls-ott-zhibo.wasu.tv/live/160/index.m3u8
 华数_睡前故事,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
 华数_公主城堡,http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 爱奇艺_电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
@@ -181,18 +176,8 @@ Newtv完美游戏,http://gslbserv.itv.cmvideo.cn:80/000000001000/532094685768696
 爱奇艺_动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 爱奇艺_票房收割机,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 爱奇艺_欢乐剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-爱奇艺_经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-爱奇艺_惊悚午夜场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
 爱奇艺_动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
-爱奇艺_华语院线,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
 爱奇艺_温情影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
-爱奇艺_周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-爱奇艺_婚姻剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_hunyinjuchang_1080p_t10/c16_lb_hunyinjuchang_1080p_t10.m3u8
-爱奇艺_仙侠玄幻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
-爱奇艺_青春剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
-爱奇艺_家庭剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
-爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-爱奇艺_童年经典,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_balalaxiaomoxian_1080p_t10/c15_lb_balalaxiaomoxian_1080p_t10.m3u8
 爱奇艺_怀旧动画,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
 爱奇艺_儿童乐园,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
 
