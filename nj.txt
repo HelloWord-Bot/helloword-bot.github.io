@@ -62,7 +62,7 @@ CCTV央视精品,http://27.36.62.162:9090/live/yangshijingpin_1500.m3u8
 CCTV卫生健康,http://27.36.62.162:9090/live/weishengjiankang_1500.m3u8
 CCTV电视指南,http://27.36.62.162:9090/live/dianshizhinan_1500.m3u8
 CETV-1,http://27.36.62.162:9090/live/CETV-1_1500.m3u8
-CHC高清电影HD,http://27.36.62.162:9090/live/CHCHD_7000.m3u8
+CHC高清电影HD,http://27.36.62.162:9090/live/CHCHD_7000.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC家庭影院,http://27.36.62.162:9090/live/CHChometheatre_1500.m3u8
 CHC动作电影,http://27.36.62.162:9090/live/CHCactionmovie_1500.m3u8
 DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
@@ -91,6 +91,7 @@ DOX剧场HD,http://27.36.62.162:9090/live/DOXjuchangHD_7000.m3u8
 广东体育HD,http://27.36.62.162:9090/live/gdsportsHD_7000.m3u8
 广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 MTV,http://27.36.62.162:9090/live/MTV_1500.m3u8
+时装周,http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
 新动漫,http://27.36.62.162:9090/live/xindongman_1500.m3u8
 幸福彩,http://27.36.62.162:9090/live/xingfucai_1500.m3u8
 法治天地,http://27.36.62.162:9090/live/fazhitiandi_1500.m3u8
@@ -112,21 +113,13 @@ MTV,http://27.36.62.162:9090/live/MTV_1500.m3u8
 金鹰卡通,http://27.36.62.162:9090/live/jinyingkatong_1500.m3u8
 炫动卡通,http://27.36.62.162:9090/live/xuandongkatong_1500.m3u8
 卡酷卡通,http://27.36.62.162:9090/live/kakushaoer_1500.m3u8
-
-其它频道,#genre#
+黑莓动画,http://39.135.36.141:18890/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=1106497909461636297&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7yuzV0ONj3jLJ3hwVkzsTuqbBS2aSqqFpaY6XZKMHRlKo8mmc3pY99jwkF3YYIQ9U6aewUh4Nwm0T2s2uo6zdq
 动作电影,http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_dongzuodianying_720p_t10/c19_lb_dongzuodianying_720p_t10.m3u8
-北京时装周,http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+温情影院,http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_chenglong_720p_t10/c19_lb_chenglong_720p_t10.m3u8
 动作科幻影院,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 好莱坞电影院,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-温情影院,http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_chenglong_720p_t10/c19_lb_chenglong_720p_t10.m3u8
-第一财经,http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_hd/live.m3u8
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-欢乐剧场,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225963/3.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#rtmp://58.200.131.2:1935/livetv/chchd
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+其它频道,#genre#
 CIBN今古珍藏,http://live1.nty.tv189.com/tm-yg1zypd-512k.m3u8
 CIBN动作影院,http://live1.nty.tv189.com/tm-yg1dzyy-512k.m3u8
 CIBN喜剧影院,http://live1.nty.tv189.com/tm-yg1xjyy-512k.m3u8
@@ -170,13 +163,6 @@ NewTV精品体育,http://39.135.36.157:18890/000000001000/6460382139625130259/1.
 NewTV潮妈辣婆,http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
 NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
 Newtv完美游戏,http://gslbserv.itv.cmvideo.cn:80/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5320946857686967621&owchid=ystenlive&owsid=7951969344462105144
-
-金鹰卡通,http://39.135.36.143:18890/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000016601&owchid=ystenlive&owsid=1106497909461440110&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh3lvQbkJR7yvxA1RDMtL0LOgZJUasCVca4o22xp7Fqo70%2bkmwxtIe5WPGbFPdTEWf
-嘉佳卡通,http://39.135.36.158:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000025964&owchid=ystenlive&owsid=1106497909461445399&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhTdKQ4wsazi%2bjWctAkM%2b3AyHZX%2bK23G5GXJY0zYdFr53ZLGcc%2fpaa0eBryrKOGOCn
-哈哈炫动,http://39.135.36.141:18890/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000000172&owchid=ystenlive&owsid=1106497909461453987&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhWcrsHswwWp2dWLb8s5W8TNE0OJVYRjGF0bAUDhLlZ%2fS%2buYp9XTsbJzJ2IhAUAbXB
-卡酷少儿,http://39.135.36.158:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7589856436881630561&owchid=ystenlive&owsid=1106497909461461523&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6w5tj6QNQmxgPk9QJsy7%2fzSWjcIgWGBaWYpmGQ1JTlRh0%2b1GDs%2b%2fmAEmuKcn81VSv8Jmm8qRlsJnY7A7xx1NX%2b
-优漫卡通,http://39.135.36.157:18890/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000010063&owchid=ystenlive&owsid=1106497909461609150&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhtaBjjE4TN9WTWZSJCyB7q9lx71XBn28Da%2bdFI9LQTRkZjhTxMpgayQKIC2eH%2bMbL
-黑莓动画,http://39.135.36.141:18890/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=1106497909461636297&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7yuzV0ONj3jLJ3hwVkzsTuqbBS2aSqqFpaY6XZKMHRlKo8mmc3pY99jwkF3YYIQ9U6aewUh4Nwm0T2s2uo6zdq
 
 民国影视,#genre#
 靖天电影台,http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
