@@ -239,6 +239,7 @@ FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.
 三立新闻,vjms://121.14.222.75:8500:3502/live/cid=352
 年代新聞,vjms://121.14.222.75:8500:3502/live/cid=455
 寰宇新闻,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
+寰宇新闻2台,http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
 东森新闻台,vjms://121.14.222.75:8500:3502/live/cid=340#http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
 非凡新闻台,vjms://121.14.222.75:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
 中视新闻,vjms://113.96.133.24:8500:3502/live/cid=452#http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
