@@ -242,8 +242,8 @@ FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.
 
 民国新闻,#genre#
 新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
-民視新聞,vjms://121.14.222.75:8500:3502/live/cid=454
-三立新闻,vjms://121.14.222.75:8500:3502/live/cid=352
+民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8
+三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 年代新聞,vjms://121.14.222.75:8500:3502/live/cid=455
 寰宇新闻,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
 寰宇新闻2台,http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
@@ -253,8 +253,9 @@ FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.
 东森财经新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
 壹新闻,vjms://121.14.222.75:8500:3502/live/cid=445
 香港有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
 BBC World News,http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
@@ -308,7 +309,8 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 综合娱乐,#genre#
 民視HD,vjms://121.14.222.75:8500:3502/live/cid=450
 大愛,vjms://121.14.222.75:8500:3502/live/cid=442
-大爱二台,http://61.58.60.230:9319/live/191.m3u8
+大爱二台,http://61.58.60.230:9319/live/191.m3u8#https://tv1.daai.tv/live/app/playlist.m3u8
+GOOD TV2,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 TVBS欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
 TVBS精彩台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
